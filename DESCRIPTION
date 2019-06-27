@@ -1,0 +1,12 @@
+Package: IOD
+Type: Package
+Title: Inequality with Ordinal Data
+Version: 0.1.0
+Author: @Ramnath Kumar
+Maintainer: Ramnath Kumar<ramnathkumar181@gmail.com>
+Description: The following package is used to  calculate inequality with ordinal 
+    data where two status cannot be numerically compared.This is based 
+    on the paper written by Cowell in Econometrics.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
