@@ -3,7 +3,7 @@
 This is to compare different ordinal data with numbers which can be used for further applications. 
 Ordinal data such as "good" and "bad" cannot be compared numerically. Hence, we use statistics to convert them into numbers which can be compared and used in further applications.
 
-The paper associated with this concept is available in the man page.
+The paper associated with this concept is [Paper](man/130226_emmanuel_flachaire.pdf)
 
 ## Run
 
